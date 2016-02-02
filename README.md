@@ -3,9 +3,9 @@
 Based on the [Piccolo Project](http://www.piccolo.cc)
 
 ###Authors:
-* (Original Authors)[https://github.com/DiatomStudio]
-* (Ian McLinden)[https://github.com/ianmclinden]
-* (Jake Reynolds)[https://github.com/JacobReynolds]
+* [Original Authors](https://github.com/DiatomStudio)
+* [Ian McLinden](https://github.com/ianmclinden)
+* [Jake Reynolds](https://github.com/JacobReynolds)
 
 ###Project:
 ####Piccolo, the tiny cnc bot####
