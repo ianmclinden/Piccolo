@@ -60,13 +60,6 @@ import processing.serial.*;
  */
 
 public class PiccoloP5 extends PGraphics {
-
- /* JReynolds 2/11/16: This is the serial protocol for communicating with the 
-  * PiccoloLib on the arduino.  Must initiate handshake through A, wait for a C
-  * to be received then send P to signify you're sending a position.
-  * Then send x,y,z packed down into 4 character int (using sendInt(int)).
-  * Then send ";" to end the position.  Not sure about the use case for "E" yet.
-  */
  static final char COMMAND_CONNECT = 'C'; // connect byte from computer
  static final char COMMAND_SEND_NEXT = 'B'; // send the next packet from
  // piccolo
