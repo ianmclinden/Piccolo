@@ -4,6 +4,7 @@
 .LSOverride
 *.dSYM/
 ~*.docx
+.*~
 
 # Icon must end with two \r
 Icon
